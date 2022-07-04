@@ -63,3 +63,15 @@ h1 {
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#side-different-color {
+    border-left: 7px solid blue;
+}
+
+#side-border {
+    border-left: 7px solid tomato;
+}
+
+footer {
+    text-align: center;
+}
